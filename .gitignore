@@ -1,0 +1,9 @@
+.vscode
+*.txt
+!data/sample.txt
+*.jpg
+*.jpeg
+*.png!logo.png
+*.mp4
+recvfile
+sendfile
